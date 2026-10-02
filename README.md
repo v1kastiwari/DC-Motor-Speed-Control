@@ -63,6 +63,6 @@ toward the reference value.
 
 ![Speed Response](Results/speed_response.jpeg)
 
-### PWM Response
+### AVERAGE PWM Response
 
 ![PWM Response](Results/pwm_response.jpeg)
